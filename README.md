@@ -16,13 +16,13 @@ Pooya Parsa, one of the project authors, serves as the project lead of Nuxt.js. 
 
 ## The Framework Team
 
-Members of the core team are contributors who have made multiple valuable contributions to the project and are now relied upon to both write code directly to the repository and screen the contributions of others. In many cases they are programmers but it is also possible that they contribute in a different role, for example, community engagement. Typically, a core team member will focus on a specific aspect of the project and will bring a level of expertise and understanding that earns them the respect of the community and the project lead. The role of a core team member is not an official one, it is simply a position that influential members of the community will find themselves in as the project lead looks to them for guidance and support.
+Members of the framework team are contributors who have made multiple valuable contributions to the project and are now relied upon to both write code directly to the repository and screen the contributions of others. In many cases they are programmers but it is also possible that they contribute in a different role, for example, community engagement. Typically, a framework team member will focus on a specific aspect of the project and will bring a level of expertise and understanding that earns them the respect of the community and the project lead. The role of a framework team member is not an official one, it is simply a position that influential members of the community will find themselves in as the project lead looks to them for guidance and support.
 
-Core team members have no authority over the overall direction of the project. However, they do have the ear of the project lead. It is a core team member’s job to ensure that the lead is aware of the community’s needs and collective objectives, and to help develop or elicit appropriate contributions to the project. Often, core team members are given informal control over their specific areas of responsibility and are assigned rights to directly modify certain areas of the source code. That is, although core team members do not have explicit decision-making authority, they will often find that their actions are synonymous with the decisions made by the lead.
+Framework team members have no authority over the overall direction of the project. However, they do have the ear of the project lead. It is a framework team member’s job to ensure that the lead is aware of the community’s needs and collective objectives, and to help develop or elicit appropriate contributions to the project. Often, framework team members are given informal control over their specific areas of responsibility and are assigned rights to directly modify certain areas of the source code. That is, although framework team members do not have explicit decision-making authority, they will often find that their actions are synonymous with the decisions made by the lead.
 
 ## Community Partners
 
-Some contributors, although not providing regular technical contributions like core team members, enrich the wider project ecosystem by doing some of the following:
+Some contributors, although not providing regular technical contributions like framework team members, enrich the wider project ecosystem by doing some of the following:
 
 - Organizing community conferences, meetups, and other social activities
 - Developing important higher-level libraries and frameworks on top of the project
@@ -46,7 +46,7 @@ Some contributors will already be engaging with the project as users, but will a
 - Fixing bugs
 - Adding features
 
-As contributors gain experience and familiarity with the project, they may find that the project lead starts relying on them more and more. When this begins to happen, they gradually adopt the role of a core team member, as described above.
+As contributors gain experience and familiarity with the project, they may find that the project lead starts relying on them more and more. When this begins to happen, they gradually adopt the role of a framework team member, as described above.
 
 ## Users
 
@@ -86,9 +86,9 @@ Anyone can contribute to the project, regardless of their skills, as there are m
 ## Decision-Making Process
 
 Major changes to the framework, especially breaking changes, are usually communicated ahead of time to the community via the RFC process.
-The RFC process provides an opportunity for the community to provide feedback in the design process and allows the authors, the project lead, and core team members to better gauge user needs.
+The RFC process provides an opportunity for the community to provide feedback in the design process and allows the authors, the project lead, and framework team members to better gauge user needs.
 
-It is, however, important to note that the RFC process does not hold any authority in terms of decision-making. In case of disagreements, the authors have the last word with mutual agreement. If the community chooses to question the wisdom of the actions of a core team member, the project lead can review their decisions by checking the relevant GitHub discussions, and either uphold or reverse them.
+It is, however, important to note that the RFC process does not hold any authority in terms of decision-making. In case of disagreements, the authors have the last word with mutual agreement. If the community chooses to question the wisdom of the actions of a framework team member, the project lead can review their decisions by checking the relevant GitHub discussions, and either uphold or reverse them.
 
 Any change to this document should be unanimously approved by the authors, Sebastien Chopin, Alexandre Chopin and Pooya Parsa.
 
