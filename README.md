@@ -14,7 +14,7 @@ Sébastien Chopin and Alexandre Chopin, the initial founders and authors of the 
 
 Pooya Parsa, one of the project authors, serves as the project lead of Nuxt.js. The project lead has the final say in all aspects of decision-making within the project as long as they are aligned with the project's vision and strategy. However, because the community always has the ability to fork, this person is fully answerable to the community. He also has to understand the community as a whole and strive to satisfy as many conflicting needs as possible, while ensuring that the project grows in the long term.
 
-## The Core Team
+## The Framework Team
 
 Members of the core team are contributors who have made multiple valuable contributions to the project and are now relied upon to both write code directly to the repository and screen the contributions of others. In many cases they are programmers but it is also possible that they contribute in a different role, for example, community engagement. Typically, a core team member will focus on a specific aspect of the project and will bring a level of expertise and understanding that earns them the respect of the community and the project lead. The role of a core team member is not an official one, it is simply a position that influential members of the community will find themselves in as the project lead looks to them for guidance and support.
 
