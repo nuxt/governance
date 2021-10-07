@@ -92,28 +92,29 @@ It is important to note that while by being an Enterprise Partner, we respect op
 NuxtLabs proudly does:
 
 - Manage partner relations
-- Manage Funds (donations, partners, and income channels)
+- Manage funds (donations, partners, and income channels)
 - Paying framework members working freely and full-time or part-time on the project
 - Dedicate (human) resources to help on the open-source project
 - Provide enterprise-level consultation and support services
-- Maintaining `nuxtjs.org` website
+- Maintaining `nuxtjs.org` website and design
 - Manage social media channels
-- Provide cloud services and support
+- Provide official cloud services
 - Building solutions on top of Nuxt
 
-This partnership does not mean that Nuxt Labs has the authority to:
+This partnership does not give authority to NuxtLabs for:
 
-- Managing `nuxtjs.org` website's content (excluding Partner pages)
+- Maintaining `nuxtjs.org` content
 - Influence roadmap or direction
 - Access beyond community contributors
-- Analyze, use, expose or share cloud information other than for statistics
 - Force adding or removing a member to either framework or community members
-- Promise or expose information with the Partners without checking with the team
+- Promise or expose information with outside collaborators without checking with the team
 - Publishing marketing content without checking with the team or on behalf of the team
 - Offering similar functionalities of Nuxt base that lead to vendor-lockin and exclusivity (instead of improving core and general ecosystem)
 - Claim any kind of ownership over the Nuxt project (including code, access, credits, license, docs, and design) for the past, current, and the future
 - Use social media to provide misleading information
 - Doing unfair competition with 3rd party solutions made on top of Nuxt by any means
+
+Without the approval of the framework team.
 
 In case of any conflict, change of vision, or violation that cannot be settled, the Nuxt project reserves all rights to end the partnership and take back OSS donations, access, website, and Social media control.
 
@@ -121,7 +122,7 @@ In case of any conflict, change of vision, or violation that cannot be settled, 
 
 Nuxt Project is mainly branded as "Nuxt" with alternative variations of "Nuxt.js" and "NuxtJS".
 
-"NuxtJS" is a [registered brand](https://relationshipscience.com/organization/nuxtjs-288590683) by Nuxt Labs. While it is preferred to avoid "NuxtJS" in all media and avoid confusion, Any reference to "NuxtJS" (accidental or similarity) does not mean any connection, relationship, or ownership.
+"NuxtJS" is a [registered brand](https://relationshipscience.com/organization/nuxtjs-288590683) by NuxtLabs. While it is preferred to avoid "NuxtJS" in all media and avoid confusion, Any reference to "NuxtJS" (accidental or similarity) does not mean any connection, relationship, or ownership.
 
 # Processes
 
