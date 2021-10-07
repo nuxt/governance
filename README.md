@@ -81,15 +81,15 @@ For an open development project, money is less important than active contributio
 
 If you run a business using the project as a revenue-generating product, it makes business sense to sponsor its development. It ensures the project that your product relies on stays healthy and actively maintained. It can also help your exposure in our community and makes it easier to attract new developers.
 
-Communication and support happen within Nuxt Labs with the mandatory observation of the Framework team.
+Communication and support happen within NuxtLabs with the mandatory observation of the Framework team.
 
 It is important to note that while by being an Enterprise Partner, we respect opinions to make a mutually solid ecosystem of integrations and usually share early access to ideas and projects, it doesn't give partners any right to push Framework's direction, marketing, or any kind of privilege for access unless it is decided to be needed by sole decision of Framework team.
 
-## The Nuxt Labs Company
+## The NuxtLabs Company
 
-Nuxt Labs is a company founded by Sebastien Chopin and Alexandre Chopin to make Open Source Software development and sustainability a reality.
+[NuxtLabs](https://nuxtlabs.com) is a company founded by Sebastien Chopin and Alexandre Chopin to make Open Source Software development and sustainability a reality.
 
-Nuxt Labs proudly does:
+NuxtLabs proudly does:
 
 - Manage partner relations
 - Manage Funds (donations, partners, and income channels)
