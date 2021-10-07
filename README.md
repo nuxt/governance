@@ -2,19 +2,19 @@
 
 # Overview
 
-Nuxt is an "Open Source" (MIT Licensed) and "Independent" project made to profit all users equaly.
+Nuxt is an "Open Source" (MIT Licensed) and "Independent" project made to profit all users equally.
 
-Nuxt project is led by a project lead and the community's direct involvement. That is, the community actively contributes to the day-to-day maintenance of the project, but the general strategic line is drawn by the authors. In case of disagreement, they have the last word with mutual agreement. It is the project lead’s job to resolve disputes within the community and to ensure that the project is able to progress in a coordinated way. In turn, it is the community’s job to guide the decisions of the project leader through active engagement and contribution.
+Nuxt project is led by a project lead and the community's direct involvement. That is, the community actively contributes to the day-to-day maintenance of the project, but the general strategic line is drawn by the authors. In case of disagreement, they have the last word with mutual agreement. It is the project lead’s job to resolve disputes within the community and to ensure that the project can progress in a coordinated way. In turn, it is the community’s job to guide the decisions of the project leader through active engagement and contribution.
 
 # Roles and Responsibilities
 
 ## Founders and Authors
 
-Sébastien Chopin and Alexandre Chopin, the initial founders and authors of the project will keep being involved in the project's vision. In many ways, the role of the founders is about diplomacy and ensuring that the project survives in the long term. Pooya Parsa joined them later as the new author of the project by making multiple valuable contributions to the project. It is the author's responsibility to set strategic objectives of the project and communicate these clearly to the community.
+Sébastien Chopin and Alexandre Chopin, the initial founders and authors of the project will keep being involved in the project's vision. In many ways, the role of the founders is about diplomacy and ensuring that the project survives in the long term. Pooya Parsa joined them later as the new author of the project by making multiple valuable contributions to the project. It is the author's responsibility to set strategic objectives for the project and communicate these clearly to the community.
 
 ## Project Lead
 
-Pooya Parsa, one of the project authors, serves as the project lead of Nuxt. The project lead has the final say in all aspects of decision-making within the project as long as they are aligned with the project's vision and strategy. However, because the community always has the ability to fork, this person is fully answerable to the community. He also has to understand the community as a whole and strive to satisfy as many conflicting needs as possible, while ensuring that the project grows in the long term.
+Pooya Parsa, one of the project authors, serves as the project lead of Nuxt. The project lead has the final say in all aspects of decision-making within the project as long as they are aligned with the project's vision and strategy. However, because the community always can fork, this person is fully answerable to the community. He also has to understand the community as a whole and strive to satisfy as many conflicting needs as possible, while ensuring that the project grows in the long term.
 
 ## The Framework Team
 
@@ -22,7 +22,7 @@ Members of the framework team are contributors who have made multiple valuable c
 
 Framework team members have no authority over the overall direction of the project. However, they do have the ear of the project lead. It is a framework team member’s job to ensure that the lead is aware of the community’s needs and collective objectives, and to help develop or elicit appropriate contributions to the project. Often, framework team members are given informal control over their specific areas of responsibility and are assigned rights to directly modify certain areas of the source code. That is, although framework team members do not have explicit decision-making authority, they will often find that their actions are synonymous with the decisions made by the lead.
 
-Framework team has exclusive responsibility of mainaining `nuxt/` github repositories and `@nuxt/` npm scoped packages.
+The framework team has the exclusive responsibility of maintaining `nuxt/` GitHub repositories and `@nuxt/` npm scoped packages.
 
 ## Community contributors
 
@@ -42,7 +42,7 @@ Some contributors will already be engaging with the project as users, but will a
 
 As contributors gain experience and familiarity with the project, they may find that the project lead starts relying on them more and more. When this begins to happen, they gradually adopt the role of a framework team member, as described above.
 
-Community contributors, usually will gain responsibility of maintaining some `nuxt-community/` github repositories and `@nuxtjs/` npm scoped packages.
+Community contributors usually will gain the responsibility of maintaining some `nuxt-community/` GitHub repositories and `@nuxtjs/` npm scoped packages.
 
 ## Community Partners
 
@@ -54,11 +54,11 @@ Some contributors, although not providing regular technical contributions, enric
 - Authoring high-quality educational materials
 - Curating community resources
 
-It is essential that community partners keep in touch with framework team to keep aligned with best practices and marketing strategies. A bi-weekly meeting is at least set to make this possible.
+Community partners must keep in touch with the framework team to keep aligned with best practices and marketing strategies. A bi-weekly meeting is at least set to make this possible.
 
 ## Users
 
-Users are community members who have a need for the project. They are the most important members of the community: without them, the project would have no purpose. Anyone can be a user; there are no specific requirements.
+Users are community members who use the project. They are the most important members of the community: without them, the project would have no purpose. Anyone can be a user; there are no specific requirements.
 
 Users should be encouraged to participate in the life of the project and the community as much as possible. User contributions enable the project team to ensure that they are satisfying the needs of those users. Common user activities include (but are not limited to):
 
@@ -71,37 +71,37 @@ Users who continue to engage with the project and its community will often find 
 
 # Support
 
-All participants in the community are encouraged to provide support for new users within the project management infrastructure. This support is provided as a way of growing the community. Those seeking support should recognize that all support activity within the project is voluntary and is therefore provided as and when time allows. A user requiring guaranteed response times or results should therefore seek to purchase a support contract from a vendor. (Of course, that vendor should be an active member of the community.) However, for those willing to engage with the project on its own terms, and willing to help support other users, the community support channels are ideal.
+All participants in the community are encouraged to provide support for new users within the project management infrastructure. This support is provided as a way of growing the community. Those seeking support should recognize that all support activity within the project is voluntary and is therefore provided as and when time allows. A user requiring guaranteed response times or results should therefore seek to purchase a support contract from a vendor. (Of course, that vendor should be an active member of the community.) However, for those willing to engage with the project on its terms, and willing to help support other users, the community support channels are ideal.
 
 ## Monetary Donations
 
-For an open development project, money is less important than active contribution. However, some people or organizations are cash-rich and time-poor and would prefer to make their contribution in the form of cash. If you want to make a significant donation, you may be able to sponsor us to implement a new feature or fix some bugs. The project website provides clear guidance on how to go about making a donation.
+For an open development project, money is less important than active contribution. However, some people or organizations are cash-rich and time-poor and would prefer to make their contribution in the form of cash. If you want to make a significant donation, you may be able to sponsor us to implement a new feature or fix some bugs. The project website provides clear guidance on how to go about donating.
 
 ## Enterprise Partners
 
-If you run a business using the project as a revenue-generating product, it makes business sense to sponsor it's development. It ensures the project that your product relies on stays healthy and actively maintained. It can also help your exposure in our community and makes it easier to attract new developers.
+If you run a business using the project as a revenue-generating product, it makes business sense to sponsor its development. It ensures the project that your product relies on stays healthy and actively maintained. It can also help your exposure in our community and makes it easier to attract new developers.
 
-Communication and support happens within Nuxt Labs with the mandatory observation of Framework team.
+Communication and support happen within Nuxt Labs with the mandatory observation of the Framework team.
 
-It is important to note that while by being an Enterprise Partner, we respect opinions to make a mutual strong and solid ecosystem of integrations and usually share early access to ideas and projects, it doesn't give partners any right to push Framework's direction, marketing or any kind of privilage for access unless it is decidedd to be needed by sole decition of Framework team.
+It is important to note that while by being an Enterprise Partner, we respect opinions to make a mutually solid ecosystem of integrations and usually share early access to ideas and projects, it doesn't give partners any right to push Framework's direction, marketing, or any kind of privilege for access unless it is decided to be needed by sole decision of Framework team.
 
 ## The Nuxt Labs Company
 
-Nuxt Labs is a company founded by Sebastien Chopin and Alexandre Chopin with the objective to make Open Source Software development and sustainability a reality.
+Nuxt Labs is a company founded by Sebastien Chopin and Alexandre Chopin to make Open Source Software development and sustainability a reality.
 
 Nuxt Labs proudly does:
 
 - Manage partner relations
-- Manage Founds (donations, partners and income channels)
-- Paying framework memebers working freely and full-time or part-time on the project
-- Deddicate (human) resources to help on the open source project
-- Provide enterprise level consultation and support services
+- Manage Funds (donations, partners, and income channels)
+- Paying framework members working freely and full-time or part-time on the project
+- Dedicate (human) resources to help on the open-source project
+- Provide enterprise-level consultation and support services
 - Maintaining `nuxtjs.org` website
 - Manage social media channels
 - Provide cloud services and support
-- Builing solutions on top of Nuxt
+- Building solutions on top of Nuxt
 
-This partnership does not means that Nuxt Labs has the authority to:
+This partnership does not mean that Nuxt Labs has the authority to:
 
 - Managing `nuxtjs.org` website's content (excluding Partner pages)
 - Influence roadmap or direction
@@ -111,17 +111,17 @@ This partnership does not means that Nuxt Labs has the authority to:
 - Promise or expose information with the Partners without checking with the team
 - Publishing marketing content without checking with the team or on behalf of the team
 - Offering similar functionalities of Nuxt base that lead to vendor-lockin and exclusivity (instead of improving core and general ecosystem)
-- Claim any kind of ownership over the Nuxt project (including code, access, credits, license, docs and design) for the past, current and the future
+- Claim any kind of ownership over the Nuxt project (including code, access, credits, license, docs, and design) for the past, current, and the future
 - Use social media to provide misleading information
-- Doing unfair compatition with 3rd party solutions made on top of Nuxt by any means
+- Doing unfair competition with 3rd party solutions made on top of Nuxt by any means
 
-In case of any conflict or violation that cannot be settled, Nuxt project reserves all rights to end the partnership and take back access, website and Social media control.
+In case of any conflict, change of vision, or violation that cannot be settled, the Nuxt project reserves all rights to end the partnership and take back OSS donations, access, website, and Social media control.
 
 # Branding
 
 Nuxt Project is mainly branded as "Nuxt" with alternative variations of "Nuxt.js" and "NuxtJS".
 
-"NuxtJS" is a [registred brand](https://relationshipscience.com/organization/nuxtjs-288590683) by Nuxt Labs. While it is prefered to avoid "NuxtJS" in all medias and avoid confusion, Any reference to "NuxtJS" (accidental or similarity) does not means any connection, relationship or ownership.
+"NuxtJS" is a [registered brand](https://relationshipscience.com/organization/nuxtjs-288590683) by Nuxt Labs. While it is preferred to avoid "NuxtJS" in all media and avoid confusion, Any reference to "NuxtJS" (accidental or similarity) does not mean any connection, relationship, or ownership.
 
 # Processes
 
@@ -138,7 +138,7 @@ It is, however, important to note that the RFC process does not hold any authori
 
 ## Changes to this document
 
-This document is signed-off-by Sébastien Chopin, Alexandre Chopin and Pooya Parsa and any future changes should be unanimously approval from all.
+This document is signed-off by Sébastien Chopin, Alexandre Chopin, and Pooya Parsa and any future changes should be unanimous approval from all.
 
 This governance document is based upon the [Benevolent Dictator Governance Model](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel) by Ross Gardler and Gabriel Hanganu, licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). This document itself is also licensed under the same license.
 
