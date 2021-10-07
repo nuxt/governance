@@ -2,17 +2,19 @@
 
 # Overview
 
-This project is led by a project lead and managed by the community. That is, the community actively contributes to the day-to-day maintenance of the project, but the general strategic line is drawn by the authors. In case of disagreement, they have the last word with mutual agreement. It is the project lead’s job to resolve disputes within the community and to ensure that the project is able to progress in a coordinated way. In turn, it is the community’s job to guide the decisions of the project leader through active engagement and contribution.
+Nuxt is an "Open Source" (MIT Licensed) and "Independent" project made to profit all users equaly.
+
+Nuxt project is led by a project lead and the community's direct involvement. That is, the community actively contributes to the day-to-day maintenance of the project, but the general strategic line is drawn by the authors. In case of disagreement, they have the last word with mutual agreement. It is the project lead’s job to resolve disputes within the community and to ensure that the project is able to progress in a coordinated way. In turn, it is the community’s job to guide the decisions of the project leader through active engagement and contribution.
 
 # Roles and Responsibilities
 
 ## Founders and Authors
 
-Sébastien Chopin and Alexandre Chopin, the initial founders and authors of the project reserve all rights for being involved in the project's vision and strategy. In many ways, the role of the founders is about diplomacy and ensuring that the project survives in the long term. Pooya Parsa joined them later as the 3rd author of the project by making multiple valuable contributions to the project. It is the author's responsibility to set strategic objectives of the project and communicate these clearly to the community.
+Sébastien Chopin and Alexandre Chopin, the initial founders and authors of the project will keep being involved in the project's vision. In many ways, the role of the founders is about diplomacy and ensuring that the project survives in the long term. Pooya Parsa joined them later as the new author of the project by making multiple valuable contributions to the project. It is the author's responsibility to set strategic objectives of the project and communicate these clearly to the community.
 
 ## Project Lead
 
-Pooya Parsa, one of the project authors, serves as the project lead of Nuxt.js. The project lead has the final say in all aspects of decision-making within the project as long as they are aligned with the project's vision and strategy. However, because the community always has the ability to fork, this person is fully answerable to the community. He also has to understand the community as a whole and strive to satisfy as many conflicting needs as possible, while ensuring that the project grows in the long term.
+Pooya Parsa, one of the project authors, serves as the project lead of Nuxt. The project lead has the final say in all aspects of decision-making within the project as long as they are aligned with the project's vision and strategy. However, because the community always has the ability to fork, this person is fully answerable to the community. He also has to understand the community as a whole and strive to satisfy as many conflicting needs as possible, while ensuring that the project grows in the long term.
 
 ## The Framework Team
 
@@ -20,17 +22,9 @@ Members of the framework team are contributors who have made multiple valuable c
 
 Framework team members have no authority over the overall direction of the project. However, they do have the ear of the project lead. It is a framework team member’s job to ensure that the lead is aware of the community’s needs and collective objectives, and to help develop or elicit appropriate contributions to the project. Often, framework team members are given informal control over their specific areas of responsibility and are assigned rights to directly modify certain areas of the source code. That is, although framework team members do not have explicit decision-making authority, they will often find that their actions are synonymous with the decisions made by the lead.
 
-## Community Partners
+Framework team has exclusive responsibility of mainaining `nuxt/` github repositories and `@nuxt/` npm scoped packages.
 
-Some contributors, although not providing regular technical contributions like framework team members, enrich the wider project ecosystem by doing some of the following:
-
-- Organizing community conferences, meetups, and other social activities
-- Developing important higher-level libraries and frameworks on top of the project
-- Translating documentation into different languages
-- Authoring high-quality educational materials
-- Curating community resources
-
-## Contributors
+## Community contributors
 
 Contributors are community members that make valuable contributions, such as those outlined in the list below, but generally do not have the authority to make direct changes to the project code. Contributors engage with the project through communication tools, such as discussions and issues. Anyone can become a contributor. There is no expectation of commitment to the project, no specific skill requirements, and no selection process. To become a contributor, a community member simply has to perform one or more actions that are beneficial to the project.
 
@@ -47,6 +41,20 @@ Some contributors will already be engaging with the project as users, but will a
 - Adding features
 
 As contributors gain experience and familiarity with the project, they may find that the project lead starts relying on them more and more. When this begins to happen, they gradually adopt the role of a framework team member, as described above.
+
+Community contributors, usually will gain responsibility of maintaining some `nuxt-community/` github repositories and `@nuxtjs/` npm scoped packages.
+
+## Community Partners
+
+Some contributors, although not providing regular technical contributions, enrich the wider project ecosystem by doing some of the following:
+
+- Organizing community conferences, meetups, and other social activities
+- Developing important higher-level libraries and frameworks on top of the project
+- Translating documentation into different languages
+- Authoring high-quality educational materials
+- Curating community resources
+
+It is essential that community partners keep in touch with framework team to keep aligned with best practices and marketing strategies. A bi-weekly meeting is at least set to make this possible.
 
 ## Users
 
@@ -71,11 +79,49 @@ For an open development project, money is less important than active contributio
 
 ## Enterprise Partners
 
-If you run a business using the project as a revenue-generating product, it makes business sense to sponsor its development. It ensures the project that your product relies on stays healthy and actively maintained. It can also help your exposure in our community and makes it easier to attract new developers.
+If you run a business using the project as a revenue-generating product, it makes business sense to sponsor it's development. It ensures the project that your product relies on stays healthy and actively maintained. It can also help your exposure in our community and makes it easier to attract new developers.
+
+Communication and support happens within Nuxt Labs with the mandatory observation of Framework team.
+
+It is important to note that while by being an Enterprise Partner, we respect opinions to make a mutual strong and solid ecosystem of integrations and usually share early access to ideas and projects, it doesn't give partners any right to push Framework's direction, marketing or any kind of privilage for access unless it is decidedd to be needed by sole decition of Framework team.
 
 ## The Nuxt Labs Company
 
-Nuxt Labs is a company founded by Sebastien Chopin and Alexandre Chopin with the objective to make Open Source Software development and sustainability a reality. They proudly dedicate their resources and time to the project by providing continuous support and cloud services.
+Nuxt Labs is a company founded by Sebastien Chopin and Alexandre Chopin with the objective to make Open Source Software development and sustainability a reality.
+
+Nuxt Labs proudly does:
+
+- Manage partner relations
+- Manage Founds (donations, partners and income channels)
+- Paying framework memebers working freely and full-time or part-time on the project
+- Deddicate (human) resources to help on the open source project
+- Provide enterprise level consultation and support services
+- Maintaining `nuxtjs.org` website
+- Manage social media channels
+- Provide cloud services and support
+- Builing solutions on top of Nuxt
+
+This partnership does not means that Nuxt Labs has the authority to:
+
+- Managing `nuxtjs.org` website's content (excluding Partner pages)
+- Influence roadmap or direction
+- Access beyond community contributors
+- Analyze, use, expose or share cloud information other than for statistics
+- Force adding or removing a member to either framework or community members
+- Promise or expose information with the Partners without checking with the team
+- Publishing marketing content without checking with the team or on behalf of the team
+- Offering similar functionalities of Nuxt base that lead to vendor-lockin and exclusivity (instead of improving core and general ecosystem)
+- Claim any kind of ownership over the Nuxt project (including code, access, credits, license, docs and design) for the past, current and the future
+- Use social media to provide misleading information
+- Doing unfair compatition with 3rd party solutions made on top of Nuxt by any means
+
+In case of any conflict or violation that cannot be settled, Nuxt project reserves all rights to end the partnership and take back access, website and Social media control.
+
+# Branding
+
+Nuxt Project is mainly branded as "Nuxt" with alternative variations of "Nuxt.js" and "NuxtJS".
+
+"NuxtJS" is a [registred brand](https://relationshipscience.com/organization/nuxtjs-288590683) by Nuxt Labs. While it is prefered to avoid "NuxtJS" in all medias and avoid confusion, Any reference to "NuxtJS" (accidental or similarity) does not means any connection, relationship or ownership.
 
 # Processes
 
@@ -90,7 +136,9 @@ The RFC process provides an opportunity for the community to provide feedback in
 
 It is, however, important to note that the RFC process does not hold any authority in terms of decision-making. In case of disagreements, the authors have the last word with mutual agreement. If the community chooses to question the wisdom of the actions of a framework team member, the project lead can review their decisions by checking the relevant GitHub discussions, and either uphold or reverse them.
 
-Any change to this document should be unanimously approved by the authors, Sebastien Chopin, Alexandre Chopin and Pooya Parsa.
+## Changes to this document
+
+This document is signed-off-by Sébastien Chopin, Alexandre Chopin and Pooya Parsa and any future changes should be unanimously approval from all.
 
 This governance document is based upon the [Benevolent Dictator Governance Model](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel) by Ross Gardler and Gabriel Hanganu, licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). This document itself is also licensed under the same license.
 
