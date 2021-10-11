@@ -81,48 +81,15 @@ For an open development project, money is less important than active contributio
 
 If you run a business using the project as a revenue-generating product, it makes business sense to sponsor its development. It ensures the project that your product relies on stays healthy and actively maintained. It can also help your exposure in our community and makes it easier to attract new developers.
 
-Communication and support happen within NuxtLabs with the mandatory observation of the Framework team.
+Communication and support happen within [NuxtLabs](https://nuxtlabs.com) with the mandatory observation of the Framework team.
 
 It is important to note that while by being an Enterprise Partner, we respect opinions to make a mutually solid ecosystem of integrations and usually share early access to ideas and projects, it doesn't give partners any right to push Framework's direction, marketing, or any kind of privilege for access unless it is decided to be needed by sole decision of Framework team.
-
-## The NuxtLabs Company
-
-[NuxtLabs](https://nuxtlabs.com) is a company founded by Sebastien Chopin and Alexandre Chopin to make Open Source Software development and sustainability a reality.
-
-NuxtLabs proudly does:
-
-- Manage partner relations
-- Manage funds (donations, partners, and income channels)
-- Paying framework members working freely and full-time or part-time on the project
-- Dedicate (human) resources to help on the open-source project
-- Provide enterprise-level consultation and support services
-- Maintaining `nuxtjs.org` website and design
-- Manage social media channels
-- Provide official cloud services
-- Building solutions on top of Nuxt
-
-This partnership does not give authority to NuxtLabs for:
-
-- Maintaining `nuxtjs.org` content
-- Influence roadmap or direction
-- Access beyond community contributors
-- Force adding or removing a member to either framework or community members
-- Promise or expose information with outside collaborators without checking with the team
-- Publishing marketing content without checking with the team or on behalf of the team
-- Offering similar functionalities of Nuxt base that lead to vendor-lockin and exclusivity (instead of improving core and general ecosystem)
-- Claim any kind of ownership over the Nuxt project (including code, access, credits, license, docs, and design) for the past, current, and the future
-- Use social media to provide misleading information
-- Doing unfair competition with 3rd party solutions made on top of Nuxt by any means
-
-Without the approval of the framework team.
-
-In case of any conflict, change of vision, or violation that cannot be settled, the Nuxt project reserves all rights to end the partnership and take back OSS donations, access, website, and Social media control.
 
 # Branding
 
 Nuxt Project is mainly branded as "Nuxt" with alternative variations of "Nuxt.js" and "NuxtJS".
 
-"NuxtJS" is a [registered brand](https://relationshipscience.com/organization/nuxtjs-288590683) by NuxtLabs. While it is preferred to avoid "NuxtJS" in all media and avoid confusion, Any reference to "NuxtJS" (accidental or similarity) does not mean any connection, relationship, or ownership.
+"NuxtJS" is a [registered brand](https://relationshipscience.com/organization/nuxtjs-288590683) by [NuxtLabs](https://nuxtlabs.com). While it is preferred to avoid "NuxtJS" in all media and avoid confusion, Any reference to "NuxtJS" (accidental or similarity) does not mean any connection, relationship, or ownership.
 
 # Processes
 
@@ -139,7 +106,7 @@ It is, however, important to note that the RFC process does not hold any authori
 
 ## Changes to this document
 
-This document is signed-off by Sébastien Chopin, Alexandre Chopin, and Pooya Parsa and any future changes should be unanimous approval from all.
+This document is signed-off by [Sébastien Chopin](https://github.com/Atinux), [Alexandre Chopin](https://github.com/alexchopin), and [Pooya Parsa](https://github.com/pi0) and any future changes should be unanimous approval from all.
 
 This governance document is based upon the [Benevolent Dictator Governance Model](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel) by Ross Gardler and Gabriel Hanganu, licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). This document itself is also licensed under the same license.
 
