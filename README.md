@@ -110,4 +110,4 @@ At any point, if the authors disagree and want to discuss a decision, they can f
 
 ## Revisions
 
-This document is signed-off by [Sébastien Chopin](https://github.com/Atinux), [Alexandre Chopin](https://github.com/alexchopin), and [Pooya Parsa](https://github.com/pi0) and any future changes should be unanimous approval from all.
+This document is signed-off by [Sébastien Chopin](https://github.com/Atinux), [Alexandre Chopin](https://github.com/alexchopin), and [Pooya Parsa](https://github.com/pi0) and any future changes should be unanimously approved by all.
