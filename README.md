@@ -88,7 +88,7 @@ If you run a business using the project as a revenue-generating product, it make
 
 Nuxt has also been known in the past as "Nuxt.js" and "NuxtJS".
 
-"NuxtJS" is a [registered brand](https://relationshipscience.com/organization/nuxtjs-288590683). It was originally registered by [NuxtLabs](https://nuxtlabs.com), the company created by Nuxt's founders. The Nuxt logo is also a registered trademark. These trademark are now retained by [Vercel](https://vercel.com/).
+"NuxtJS" is a [registered brand](https://relationshipscience.com/organization/nuxtjs-288590683). It was originally registered by [NuxtLabs](https://nuxtlabs.com), the company created by Nuxt's founders. The Nuxt logo is also a registered trademark. These trademarks are now retained by [Vercel](https://vercel.com/).
 
 Neither NuxtLabs nor Vercel have any authority over the Nuxt project; Nuxt remains an independent open source project.
 
