@@ -12,15 +12,13 @@ Within the project and community, there are a number of key people and roles who
 
 Sébastien Chopin and Alexandre Chopin founded the project and retain ultimate responsibility for the project's governance and direction. Pooya Parsa is also a key author of Nuxt due to his multiple valuable contributions to the project and significant role in the creation of Nuxt 3.
 
-The authors continue to be involved with Nuxt by setting strategic objectives for the project, representing Nuxt in the community, and serving in an advisory role to the project lead.
+The project lead, together with the core authors, remains actively involved in Nuxt by setting strategic objectives and representing the project within the community.
 
 ### Project Lead
 
-Daniel Roe serves as the current project lead of Nuxt.
+Daniel Roe serves as the project lead of Nuxt.
 
-The project lead is selected by the authors and can at any point be changed if there are issues with their leadership.
-
-The project lead has the final say in all aspects of decision-making within the project as long as they are aligned with the strategic objectives set by the authors. This person is also fully answerable to the community. He also has to understand the community as a whole and strive to satisfy as many conflicting needs as possible, while ensuring that the project grows in the long term.
+The project lead has the final say in all aspects of decision-making within the project as long as they are aligned with the strategic objectives. This person is also fully answerable to the community. He also has to understand the community as a whole and strive to satisfy as many conflicting needs as possible, while ensuring that the project grows in the long term.
 
 In many ways, the role of the project lead is about diplomacy. The key is to ensure that, as the project expands, the right people are given influence over it and the community rallies behind the vision of the project lead. The lead’s job is then to ensure that the core team members (see below) make the right decisions on behalf of the project. Generally speaking, as long as the core team members are aligned with the project’s strategy, the project lead will allow them to proceed as they desire.
 
