@@ -12,13 +12,11 @@ Within the project and community, there are a number of key people and roles who
 
 Sébastien Chopin and Alexandre Chopin founded the project and retain ultimate responsibility for the project's governance and direction. Pooya Parsa is also a key author of Nuxt due to his multiple valuable contributions to the project and significant role in the creation of Nuxt 3.
 
-The authors continue to be involved with Nuxt by setting strategic objectives for the project, representing Nuxt in the community, and serving in an advisory role to the project lead.
+The project lead, together with the core authors, remains actively involved in Nuxt by setting strategic objectives and representing the project within the community.
 
 ### Project Lead
 
 Daniel Roe serves as the current project lead of Nuxt.
-
-The project lead is selected by the authors and can at any point be changed if there are issues with their leadership.
 
 The project lead has the final say in all aspects of decision-making within the project as long as they are aligned with the strategic objectives set by the authors. This person is also fully answerable to the community. He also has to understand the community as a whole and strive to satisfy as many conflicting needs as possible, while ensuring that the project grows in the long term.
 
